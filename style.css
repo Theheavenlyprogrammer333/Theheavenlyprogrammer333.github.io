@@ -714,11 +714,10 @@ text-shadow: 0px 3px 3px rgba(255,255,255,0.5);
   animation-timeline: view();
 }
 
-
-    swiper-container {
-      width: 900px;
-      height: 500px;
-    }
+swiper-container {
+  width:900px;
+  height:500px;
+}
 
     swiper-slide {
       text-align: center;
@@ -739,6 +738,4 @@ text-shadow: 0px 3px 3px rgba(255,255,255,0.5);
   
 
 
-
-
-
+ 
