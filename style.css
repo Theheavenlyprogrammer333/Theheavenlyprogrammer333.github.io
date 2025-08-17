@@ -446,6 +446,7 @@ text-shadow: 0px 3px 3px rgba(255,255,255,0.5);
   opacity: 0; /* Start invisible */
   animation: slide-in 3s forwards;
   animation-timeline: view(); /* Triggers when element enters viewport */
+  
 }
 
  #role1 {
@@ -942,7 +943,55 @@ swiper-slide {
              color: #fff;
              text-decoration: none;
            }
+           
+           #best-tution-heading{
+  min-width: 1300px;
+  height: 80px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background-size: 120% auto;
+  background-image: linear-gradient(315deg, #4ecdc4 0%, #c797eb 75%);
+}
+#best-tution-heading:hover {
+  background-position: right center;
+}
+#best-tution-heading:active {
+  top: 2px;
+}
+
+ #ourrolebutton {
+  min-width: 130px;
+  height: 70px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background-size: 120% auto;
+  background-image: linear-gradient(315deg, #4ecdc4 0%, #c797eb 75%);
+}
+ #ourrolebutton:hover {
+  background-position: right center;
+}
+ #ourrolebutton:active {
+  top: 2px;
+}
+
 
  
+
 
 
