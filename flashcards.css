@@ -1,5 +1,9 @@
+ .swiper {
+      width: 640px;
+      height: 520px;
+    }
 
-    .swipere-slide {
+    .swiper-slide {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -52,9 +56,4 @@
   align-items: center;
 
  }
- #conthead{
-  align-items: center;
- }
- 
-
 
