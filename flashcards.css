@@ -1,9 +1,10 @@
- .swiper {
+
+    #viper {
       width: 640px;
       height: 520px;
     }
 
-    .swiper-slide {
+    #viper-slide {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -56,4 +57,6 @@
   align-items: center;
 
  }
-
+ #conthead{
+  align-items: center;
+ }
